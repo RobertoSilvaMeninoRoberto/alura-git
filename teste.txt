@@ -1,0 +1,11 @@
+ O volume na unidade C ‚ Windows 
+ O N£mero de S‚rie do Volume ‚ 30D4-986F
+
+ Pasta de C:\Cursos_Net\Alura\GitHub\ControleVersao
+
+15/11/2022  07:03    <DIR>          .
+14/11/2022  19:46    <DIR>          ..
+14/11/2022  20:07               455 index.html
+15/11/2022  07:03                 0 teste.txt
+               2 arquivo(s)            455 bytes
+               2 pasta(s)   412.912.291.840 bytes dispon¡veis
